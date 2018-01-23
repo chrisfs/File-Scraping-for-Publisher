@@ -1,5 +1,5 @@
 '''
- This script I did for a publshing company. It looks through a 2000 page report on author royalties and separates it into many different documents one for each author paid during that month. The former process was to copy and paste by hand so this script speed up the process immensely
+ This script I did for a publshing company. It looks through a 2000 page report on author royalties and separates it into many different documents one for each author paid during that month. The former process was to copy and paste by hand so this script sped up the process immensely
 '''  
 
 from pyPdf import PdfFileReader, PdfFileWriter
